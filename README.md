@@ -1,6 +1,8 @@
 # Flight Management System
 
-Welcome to the Flight Management System repository! This system provides functionality to manage flights using both a linked list and a stack data structure. It allows users to perform various operations such as adding, deleting, editing, and displaying flights.
+Welcome to the Flight Management System repository!
+This system provides functionality to manage flights using both a linked list and a stack data structure.
+It allows users to perform various operations such as adding, deleting, editing, and displaying flights.
 
 ## Features
 
@@ -29,10 +31,6 @@ To use the Flight Management System, follow these steps:
 
 Upon running the program, you will be presented with a menu where you can choose between linked list operations, stack operations, or exit the program. Follow the prompts to perform the desired operations.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
